@@ -1,0 +1,12 @@
+
+public class MI {
+	public static void main(String[] args) {
+		char fi = '\u0041';
+		char mi = '\u0042';
+		char li = '\u0054'';
+		
+		System.out.println("Intitials :" + fi + mi + li);
+		
+	}
+
+}

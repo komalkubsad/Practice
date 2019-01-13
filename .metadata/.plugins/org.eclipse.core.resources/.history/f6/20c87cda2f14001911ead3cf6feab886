@@ -1,0 +1,12 @@
+
+public class MI {
+	public static void main(String[] args) {
+		char fi = 'K';
+		char mi = 'P';
+		char li = 'K';
+		
+		System.out.println(fi + mi + li);
+		
+	}
+
+}
